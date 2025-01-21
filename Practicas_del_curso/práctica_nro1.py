@@ -18,3 +18,4 @@ else:
 #enunciado nro8
 nro1=input("Ingrese un # entero ")
 nro2=1+1
+#haber una prueba
